@@ -1,6 +1,6 @@
 package com.sparta.ja;
 
-
+//Written by Josh
 public class App 
 {
     public static void main( String[] args ) {
